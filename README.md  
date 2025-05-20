@@ -1,0 +1,11 @@
+# 📝 Smart Blog Title Generator
+
+This app generates catchy blog post titles using the LLaMA-3 model on Groq.
+
+## 🔧 Setup Instructions
+
+1. Clone the repo or copy files.
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
